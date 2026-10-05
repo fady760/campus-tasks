@@ -6,3 +6,5 @@
 
 Réponse attendue pour /health : HTTP 200.
 
+Réponse attendue pour /health : HTTP 200.
+
